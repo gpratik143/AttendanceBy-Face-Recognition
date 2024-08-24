@@ -201,7 +201,6 @@ def TakeImages():
             res = "Enter Correct name"
             message.configure(text=res)
 
-########################################################################################
 
 def TrainImages():
     check_haarcascadefile()
